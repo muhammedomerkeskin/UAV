@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UAV</string>
+
+    <string name="drone_latitude">Drone Latitude: </string>
+    <string name="drone_longitude">Drone Longitude: </string>
+    <string name="drone_msl">Drone MSL: </string>
+    <string name="drone_agl">Drone AGL: </string>
+    <string name="home_latitude">Home Latitude: </string>
+    <string name="home_longitude">Home Longitude: </string>
+    <string name="home_msl">Home MSL: </string>
+    <string name="drone_vertical_velocity">Drone Vertical Velocity: </string>
+    <string name="drone_horizontal_velocity">Drone Horizontal Velocity: </string>
+    <string name="drone_heading">Drone Heading: </string>
+    <string name="gps_marker">GPS Marker</string>
+</resources>
